@@ -1,0 +1,13 @@
+.scoringarea {
+  width: 12%;
+  float: right;
+  text-align: left;
+  text-indent: 1%;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: white;
+  background-color: rgb(255, 94, 0);
+  width: 0 auto;
+  margin: 10px;
+  /* margin-bottom: 5px; */
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "city": "Shanghai",
+    "image": "https://www.topchinatravel.com/pic/china-tour-pic/shanghai/the-bund-shanghai-04.jpg",
+    "country": "China"
+  },
+  {
+    "id": 2,
+    "city": "Dubai",
+    "image": "http://www.worldpropertyjournal.com/news-assets/Dubai-skyline-2017-2-keyimage.jpg",
+    "country": "U.A.E"
+  },
+  {
+    "id": 3,
+    "city": "Krakow",
+    "image": "https://www.wonderslist.com/wp-content/uploads/2016/01/Rynek-Glowny-Krakow.jpg",
+    "country": "Poland"
+  },
+  {
+    "id": 4,
+    "city": "Sydney",
+    "image": "https://i.pinimg.com/originals/a6/39/c2/a639c2ed37723502383bda67b37e3da9.jpg",
+    "country": "Australia"
+  },
+  {
+    "id": 5,
+    "city": "Singapore",
+    "image": "https://i2-prod.dailyrecord.co.uk/incoming/article6116653.ece/ALTERNATES/s615/singapore-wheel.jpg",
+    "country": "Singapore"
+  },
+  {
+    "id": 6,
+    "city": "Buenos Aires",
+    "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Ffortunedotcom.files.wordpress.com%2F2016%2F04%2Fgettyimages-453252185.jpg&w=800&q=85",
+    "country": "Argentina"
+  },
+  {
+    "id": 7,
+    "city": "Barcelona",
+    "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Ffortunedotcom.files.wordpress.com%2F2016%2F04%2Fgettyimages-158308055.jpg&w=1100&q=85",
+    "country": "Spain"
+  },
+  {
+    "id": 8,
+    "city": "Vancouver",
+    "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Ffortunedotcom.files.wordpress.com%2F2016%2F04%2Fgettyimages-464719257.jpg&w=1100&q=85",
+    "country": "Canada"
+  },
+  {
+    "id": 9,
+    "city": "Rio de Janiero",
+    "image": "https://assets.hongkiat.com/uploads/bird-eye-view-cities/rio-de-janeiro-brazil2.jpg",
+    "country": "Brazil"
+  },
+  {
+    "id": 10,
+    "city": "Manilla",
+    "image": "http://3.bp.blogspot.com/-pKR6LKXfImM/U7Ofa076vkI/AAAAAAAAAG0/vNyZji5i2cc/s1600/metro-manila.jpg",
+    "country": "Phillipines"
+  },
+  {
+    "id": 11,
+    "city": "Tokyo",
+    "image": "https://cdn.cnn.com/cnnnext/dam/assets/170606110126-tokyo-skyline.jpg",
+    "country": "Japan"
+  },
+  {
+    "id": 12,
+    "city": "Auckland",
+    "image": "https://redox.com/media/1302/aucklandbanner-1920.jpg",
+    "country": "New Zealand"
+  },
+  {
+    "id": 13,
+    "city": "Paris",
+    "image": "https://img.ev.mu/images/villes/5580/1605x642/5580.jpg",
+    "country": "France"
+  },
+  {
+    "id": 14,
+    "city": "New Yprk",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/9a/e3/1d/freedom-tower.jpg",
+    "country": "U.S.A"
+  },
+  {
+    "id": 15,
+    "city": "London",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF_0aHnnSIRV0t2uidS6yEgy0ZYp2rA0XC_dUwUe4_-xc6Iy1pWg",
+    "country": "U.K"
+  },
+  {
+    "id": 16,
+    "city": "Mumbai",
+    "image": "http://greatruns.com/wp-content/uploads/2017/04/mumbai-cover.jpeg",
+    "country": "India"
+  }
+]
